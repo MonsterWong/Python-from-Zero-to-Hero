@@ -4,3 +4,7 @@ install VSCode from website https://code.visualstudio.com/ and create 1st *.md* 
 
 ### Day 1. Mission 2: Get To Know GitHub
 Create a new repository in your GitHub account. Try the function of **Readme.md** and **Issues**.
+
+### Day 2. Mission 1: clone your GitHub Reporsitories with VSCode.
+
+1. copy the URL of your reporsitory.
